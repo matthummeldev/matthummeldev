@@ -3,6 +3,7 @@
 
 <div align="center">
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattrhummel&label=Profile%20views&color=0e75b6&style=flat" alt="mattrhummel" /> </p>
 </div>
 
