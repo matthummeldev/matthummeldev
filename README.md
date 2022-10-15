@@ -2,8 +2,6 @@
 <h3 align="center">A passionate front-end developer from Fredericksburg, Virginia</h3>
 
 <div align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattrhummel&label=Profile%20views&color=0e75b6&style=flat" alt="mattrhummel" /> </p>
 </div>
 
@@ -11,6 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/mattrhummel" target="blank"><img src="https://img.shields.io/twitter/follow/mattrhummel?logo=twitter&style=for-the-badge" alt="mattrhummel" /></a> </p>
 
+<div align="center">
 - 🔭 I’m currently working on [Freelance Projects](Learning new skills on CodeCademy)
 
 - 🌱 I’m currently learning **React, Redux, Advanced Javascript**
@@ -30,6 +29,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/mattrhummel/](https://www.linkedin.com/in/mattrhummel/)
 
 - ⚡ Fun fact **I just had twin boys**
+  
+ </div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
