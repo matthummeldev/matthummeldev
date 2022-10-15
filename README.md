@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt Hummel</h1>
-<h3 align="center">A passionate front-end developer from Fredericksburg, Virginiaa</h3>
+<h3 align="center">A passionate front-end developer from Fredericksburg, Virginia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattrhummel&label=Profile%20views&color=0e75b6&style=flat" alt="mattrhummel" /> </p>
 
