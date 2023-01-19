@@ -8,31 +8,19 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattrhummel" alt="mattrhummel" /></a> </p>
 
 <div align="center">
- 🔭 I’m currently working on [Freelance Projects](Learning new skills on CodeCademy)
 
-🌱 I’m currently learning **React, Redux, Advanced Javascript**
-
- 👯 I’m looking to collaborate on **Dev Projects**
-
-🤝 I’m looking for help with **nothing currently**
-
-👨‍💻 All of my projects are available at [matthummel.com](matthummel.com)
-
-📝 I regularly write articles on [matthummel.com/blog](matthummel.com/blog)
+💻 All of my projects are available at [matthummel.com](matthummel.com)
 
 💬 Ask me about **WordPress**
 
 📫 How to reach me **matt@matthummel.com**
 
 📄 Know about my experiences [https://www.linkedin.com/in/mattrhummel/](https://www.linkedin.com/in/mattrhummel/)
-
-⚡ Fun fact **I just had twin boys**
-  
+ 
  </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/matthummel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matthummel" height="30" width="40" /></a>
 <a href="https://dev.to/matthummel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="matthummel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mattrhummel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattrhummel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/matt-hummel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="matt-hummel" height="30" width="40" /></a>
