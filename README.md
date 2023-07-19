@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=mattrhummel&title=Commits,Repositories)
+![trophy](https://github-profile-trophy.vercel.app/?username=mattrhummel&title=Commits,Repositories
 </p>
 
 <div align="center">
