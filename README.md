@@ -33,9 +33,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattrhummel&show_icons=true&locale=en" alt="mattrhummel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattrhummel&" alt="mattrhummel" /></p>
-
-</div>
