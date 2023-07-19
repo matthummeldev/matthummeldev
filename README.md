@@ -13,11 +13,9 @@
 
 💻 All of my projects are available at [matthummel.com](matthummel.com)
 
-💬 Ask me about **WordPress**
-
 📫 How to reach me **matt@matthummel.com**
 
-📄 Know about my experiences [https://www.linkedin.com/in/mattrhummel/](https://www.linkedin.com/in/mattrhummel/)
+📄 Let's connect on LinkedIn [https://www.linkedin.com/in/mattrhummel/](https://www.linkedin.com/in/mattrhummel/)
  
  </div>
 
