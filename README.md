@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattrhummel&label=Profile%20views&color=0e75b6&style=flat" alt="mattrhummel" /> </p>
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mattrhummel)
+![trophy](https://github-profile-trophy.vercel.app/?username=mattrhummel&title=Commits,Repositories)
 
 <div align="center">
 
