@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt Hummel</h1>
 <h3 align="center">Web Developer with experience in WordPress and SharePoint. Husband. Dad of twin boys.</h3>
 
-<div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mattrhummel&label=Profile%20views&color=0e75b6&style=flat" alt="mattrhummel" /> </p>
-</div>
+![Metrics](https://metrics.lecoq.io/mattrhummel?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
 
 <div align="center">
 
