@@ -15,8 +15,6 @@
 
 📫 How to reach me **matt@matthummel.com**
 
-📄 Let's connect on LinkedIn [https://www.linkedin.com/in/mattrhummel/](https://www.linkedin.com/in/mattrhummel/)
- 
  </div>
 
 <h3 align="center">Connect with me:</h3>
