@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matt Hummel</h1>
 
-<h2 align="center" style="margin-bottom: 40px;">Web Developer with experience in WordPress and SharePoint. Husband. Dad of twin boys.</h2>
+<h2 align="center"Web Developer with experience in WordPress and SharePoint. Husband. Dad of twin boys.</h2>
 
 <div align="center">
 
  ![Metrics](https://metrics.lecoq.io/mattrhummel?template=terminal&code=1&projects=1&introduction=1&isocalendar=1&lines=1&stars=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&config.timezone=America%2FNew_York)
-
-</div>
-<div align="center">
 
 💻 All of my projects are available at [matthummel.com](matthummel.com)
 
