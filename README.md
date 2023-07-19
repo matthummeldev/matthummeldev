@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt Hummel</h1>
 
-<h2 align="center">Web Developer with experience in WordPress and SharePoint. Husband. Dad of twin boys.</h2>
+<p align="center">Web Developer with experience in WordPress and SharePoint. Husband. Dad of twin boys.</p>
 
 <div align="center">
 
