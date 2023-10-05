@@ -19,7 +19,7 @@
 
 <hr>
 
-### **Languages &amp; Tools:**
+### **Languages &amp; Tools
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -39,7 +39,7 @@
 
 <hr>
 
-### **Currently Learning :**
+### **Currently Learning
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /> 
@@ -48,7 +48,7 @@
 <hr>
 <Div align='center'>
 
-### Let's Connect :**
+### Let's Connect
 
  <a href="https://www.linkedin.com/in/matthummel-va/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
