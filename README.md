@@ -1,10 +1,19 @@
-## **What I Do:**
+# **What I Do:**
 
-### :technologist: &nbsp;&nbsp;Hey there!
+## :technologist: &nbsp;&nbsp;Hey there!
 
 I'm **[Matt Hummel](https://matthummel.com)**, 
 
-An experienced web developer based in Fredericksburg, Virginia and I am open for contract work.
+An experienced web developer based in Fredericksburg, Virginia. 
+
+### **Areas of Focus **
+
+- WordPress Development
+- SharePoint Development and Administration
+- Website Accessibility
+- Google Analytics
+- SEO (On-page and Technical)
+- Website Governance 
 
 ## **Languages &amp; Tools:**
 <p>
