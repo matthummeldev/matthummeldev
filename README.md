@@ -22,14 +22,6 @@ An experienced web developer with experience in **WordPress and SharePoint.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </p>
 
-## **Github Stats**
-
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattrhummel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> |
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattrhummel&layout=compact&theme=buefy&hide_border=true" /></a>
-</p>
-
-
 ## **Network with me! :**
 
 Feel free to connect with me on <i class="devicon-linkedin-plain colored"></i>
