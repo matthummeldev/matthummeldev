@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Matt Hummel</h1>
-
-<div align="center">
- 
-![Metrics](https://metrics.lecoq.io/?template=terminal&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
-
- </div>
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=mattrhummel_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
 
 <h3 align="center">Skillset:</h3>
 <p align="center">
