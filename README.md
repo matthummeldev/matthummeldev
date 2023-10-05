@@ -1,6 +1,6 @@
 <div align='center'>
 
-# :technologist: &nbsp;&nbsp;Hey there! I'm **[Matt Hummel](https://matthummel.com)**, 
+#  &nbsp;&nbsp; Hey there! I'm [Matt Hummel](https://matthummel.com)  
 
 An experienced web developer based in Fredericksburg, Virginia. 
 
