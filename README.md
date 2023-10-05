@@ -1,6 +1,5 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=mattrhummel_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
+[![Matts GitHub stats](https://github-readme-stats.vercel.app/api?username=mattrhummel)](https://github.com/mattrhummel/github-readme-stats)<p>
 
 <h3 align="center">Skillset:</h3>
 <p align="center">
