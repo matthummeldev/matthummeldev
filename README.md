@@ -2,7 +2,7 @@
 
 <hr>
 
-# Hey there! 👋 I'm Matt Hummel :technologist:
+<h1 > Hey there! 👋 I'm Matt Hummel :technologist: </h1>
 
 An experienced web developer based in Fredericksburg, Virginia. 
 
