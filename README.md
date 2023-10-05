@@ -8,12 +8,12 @@ An experienced web developer based in Fredericksburg, Virginia.
 
 ### Areas of Focus
 
-- WordPress Development 
-- SharePoint Development and Administration
-- Website Accessibility
-- Google Analytics
-- SEO (On-page and Technical)
-- Website Governance
+:white_check_mark: WordPress Development 
+:white_check_mark: SharePoint Development and Administration
+:white_check_mark: Website Accessibility
+:white_check_mark: Google Analytics
+:white_check_mark: SEO (On-page and Technical)
+:white_check_mark: Website Governance
 
 ## **Languages &amp; Tools:**
 <p>
