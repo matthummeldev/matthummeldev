@@ -15,7 +15,7 @@ An experienced web developer based in Fredericksburg, Virginia.
 :white_check_mark: SEO (On-page and Technical)  <br/>
 :white_check_mark: Website Governance  <br/>
 
-## **Languages &amp; Tools:**
+### **Languages &amp; Tools:**
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -31,6 +31,12 @@ An experienced web developer based in Fredericksburg, Virginia.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="google" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="mac" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40" /> 
+</p>
+
+### **Currently Learning :**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /> 
 </p>
 
 ## **Network with me! :**
