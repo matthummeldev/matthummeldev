@@ -1,6 +1,6 @@
 # **What I Do:**
 
-## :technologist: &nbsp;&nbsp;Hey there!
+:technologist: &nbsp;&nbsp;Hey there!
 
 I'm **[Matt Hummel](https://matthummel.com)**, 
 
