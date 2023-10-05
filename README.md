@@ -1,9 +1,10 @@
-## **Github Stats**
+## **What I Do:**
 
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattrhummel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> |
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattrhummel&layout=compact&theme=buefy&hide_border=true" /></a>
-</p>
+### :technologist: &nbsp;&nbsp;Hey there!
+
+I'm **[Matt Hummel](https://matthummel.com)**, 
+
+An experience web developer with experience in **WordPress and SharePoint.
 
 ## **Languages &amp; Tools:**
 <p>
@@ -19,6 +20,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" />          
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</p>
+
+## **Github Stats**
+
+<p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattrhummel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattrhummel&layout=compact&theme=buefy&hide_border=true" /></a>
 </p>
 
 
