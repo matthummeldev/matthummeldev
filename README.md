@@ -1,8 +1,12 @@
 <div align='center'>
 
-#  &nbsp;&nbsp; Hey there! 👋 I'm [Matt Hummel](https://matthummel.com) :technologist:
+<hr>
+
+<h1>Hey there! 👋 I'm [Matt Hummel](https://matthummel.com) :technologist: </h1>
 
 An experienced web developer based in Fredericksburg, Virginia. 
+
+<hr>
 
 </div>
 
