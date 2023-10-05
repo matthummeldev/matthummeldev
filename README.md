@@ -46,8 +46,9 @@
 </p>
 
 <hr>
+<Div align='center'>
+## Let's Connect :**
 
-## Network with me! :**
+ <a href="https://www.linkedin.com/in/matthummel-va/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Feel free to connect with me on <i class="devicon-linkedin-plain colored"></i>
-[LinkedIn](https://www.linkedin.com/in/matthummel-va/) and send me a message if you need help with anything.
+ </div>
