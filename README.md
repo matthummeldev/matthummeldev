@@ -2,7 +2,7 @@
 
 <hr>
 
-#Hey there! 👋 I'm [Matt Hummel](https://matthummel.com) :technologist:
+# Hey there! 👋 I'm [Matt Hummel](https://matthummel.com) :technologist:
 
 An experienced web developer based in Fredericksburg, Virginia. 
 
