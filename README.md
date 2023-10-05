@@ -1,10 +1,8 @@
 <div align='center'>
 
-<h1> Hey there! 👋 </h1>
+<h1> Hey there! 👋  I'm Matt Hummel ! </h1> 
 
-### I'm Matt Hummel :technologist: 
-
-An experienced web developer based in Fredericksburg, Virginia. 
+:technologist: An experienced web developer based in Fredericksburg, Virginia. :technologist: 
 
 <hr>
 
