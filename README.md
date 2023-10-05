@@ -46,7 +46,7 @@
 </p>
 
 <hr>
-<Div align='center'>
+<Div align='right'>
 
 ### Let's Connect
 
