@@ -4,7 +4,7 @@
 
 I'm **[Matt Hummel](https://matthummel.com)**, 
 
-An experienced web developer with experience in WordPress and SharePoint.
+An experienced web developer based in Fredericksburg, Virginia and I am open for contract work.
 
 ## **Languages &amp; Tools:**
 <p>
