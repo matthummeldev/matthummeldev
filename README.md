@@ -6,7 +6,7 @@ I'm **[Matt Hummel](https://matthummel.com)**,
 
 An experienced web developer based in Fredericksburg, Virginia. 
 
-### **Areas of Focus **
+### **Areas of Focus**
 
 - WordPress Development
 - SharePoint Development and Administration
