@@ -4,8 +4,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattrhummel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> |
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattrhummel&layout=compact&theme=buefy&hide_border=true" /></a>
 </p>
-## **Languages &amp; Tools:**
 
+## **Languages &amp; Tools:**
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
