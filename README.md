@@ -1,4 +1,6 @@
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattrhummel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Matt's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattrhummel&layout=compact&theme=buefy&hide_border=true" /></a>
+</p>
 
 <h3 align="center">Skillset:</h3>
 <p align="center">
