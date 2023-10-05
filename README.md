@@ -1,6 +1,6 @@
 <div align='center'>
 
-![#f03c15] # Hey there! 👋  `#f03c15` 
+<h1> Hey there! 👋 </h1>
 
 ### I'm Matt Hummel :technologist: 
 
