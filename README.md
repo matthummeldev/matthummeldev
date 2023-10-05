@@ -1,10 +1,10 @@
-# **What I Do:**
+<div align='center'>
 
-:technologist: &nbsp;&nbsp;Hey there!
-
-I'm **[Matt Hummel](https://matthummel.com)**, 
+# :technologist: &nbsp;&nbsp;Hey there! I'm **[Matt Hummel](https://matthummel.com)**, 
 
 An experienced web developer based in Fredericksburg, Virginia. 
+
+</div>
 
 ### Areas of Focus
 
