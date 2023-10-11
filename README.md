@@ -2,7 +2,7 @@
 
 <h1> Hey there! 👋  I'm Matt Hummel ! </h1> 
 
-:technologist: An experienced web developer based in Fredericksburg, Virginia. :technologist: 
+:technologist: An experienced full-stack engineer based in Fredericksburg, Virginia. :technologist: 
 
 <hr>
 
