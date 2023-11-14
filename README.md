@@ -38,9 +38,6 @@
 </p>
 
 <hr>
-</p>
-
-<hr>
 <Div align='center'>
 
 ### Let's Connect
